@@ -701,8 +701,8 @@ a {
   }
 }
 .cid-s48udlf8KU {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-s48udlf8KU .mbr-section-title {
@@ -1140,4 +1140,23 @@ a {
 }
 .cid-s48P1Icc8J foot-menu-item {
   color: #ffe161;
+}
+.cid-sR2612CNhT {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sR2612CNhT .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sR2612CNhT .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-sR2612CNhT .image-wrapper {
+    margin-bottom: 2rem;
+  }
 }
