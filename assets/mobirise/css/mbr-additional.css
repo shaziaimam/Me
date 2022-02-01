@@ -700,25 +700,6 @@ a {
     text-align: center;
   }
 }
-.cid-sR2612CNhT {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-sR2612CNhT .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sR2612CNhT .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-sR2612CNhT .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
 .cid-s48upRUlSD {
   padding-top: 2rem;
   padding-bottom: 2rem;
