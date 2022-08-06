@@ -1058,6 +1058,29 @@ a {
     left: -1rem;
   }
 }
+.cid-tdK5pH8RRZ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tdK5pH8RRZ ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tdK5pH8RRZ li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tdK5pH8RRZ ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
